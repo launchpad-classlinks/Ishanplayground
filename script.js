@@ -91,7 +91,7 @@ setInterval(() => {
     cookies += farms * farmCps;
     cookies += factories * factoryCps;
     updateCookieCount();
-}, 100); // Update every 100 milliseconds (10 times per second)
+}, 100);
 
 // Initial update of upgrade costs
 updateUpgradeCosts();
