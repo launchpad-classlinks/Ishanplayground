@@ -25,6 +25,10 @@ body {
     text-align: center;
 }
 
+#upgrades h2 {
+    margin-bottom: 10px;
+}
+
 #upgrades button {
     padding: 10px 20px;
     margin: 5px;
