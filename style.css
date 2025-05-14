@@ -17,4 +17,17 @@ body {
 
 #cookieCount {
     font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#upgrades {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#upgrades button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1em;
+    cursor: pointer;
 }
